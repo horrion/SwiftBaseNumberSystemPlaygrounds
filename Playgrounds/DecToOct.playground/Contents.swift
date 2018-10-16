@@ -15,5 +15,5 @@ while quotientInt != 0 {
 
 // Print all elements in returnArray
 for element in returnArray {
-    print(element, terminator: " ")
+    print(element, terminator: "")
 }
