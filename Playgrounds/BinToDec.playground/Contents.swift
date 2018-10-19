@@ -6,7 +6,6 @@ var returnInt:Int! = 0
 var modRemainderInt:Int! = 0
 var multiplierInt:Int! = 1
 
-
 while inputInt != 0 {
     modRemainderInt = inputInt%10
     returnInt = returnInt + modRemainderInt * multiplierInt
